@@ -58,7 +58,7 @@
 |2017/04/13|[potatotips \#39 \(iOS/Android開発Tips共有会\) \- connpass](https://potatotips.connpass.com/event/51176/)|[iOS が fastlane なら Android も fastlane に乗ってみては？](https://speakerdeck.com/starhoshi/ios-ga-fastlane-nara-android-mo-fastlane-nicheng-tutemiteha)|
 |2017/04/21|社内勉強会|[モバイルアプリアーキテクチャ勉強会 \- Qiita](http://qiita.com/star__hoshi/items/f28095542f56a1b05e34)|
 
-### 個人開発
+## 個人開発
 
 - iOS
   - [Kensuke Hoshikawaの App を App Store で](https://itunes.apple.com/jp/developer/kensuke-hoshikawa/id733552122)
