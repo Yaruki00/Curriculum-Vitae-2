@@ -4,12 +4,12 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|星川健介 (Kensuke Hoshikawa))|
+|Blog|[star\_\_hoshi's diary](http://starhoshi.hatenablog.com/)|
+|Twitter|[@star\_\_hoshi](https://twitter.com/star__hoshi)|
+|Qiita|[star\_\_hoshi](http://qiita.com/star__hoshi)|
+|Speakerdeck|[starhoshi](https://speakerdeck.com/starhoshi)|
+|Wantedly|[Kensuke Hoshikawa](https://www.wantedly.com/users/300300)|
 
 ## スキル
 
