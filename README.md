@@ -19,7 +19,7 @@
 - :star: Swift
   - UIKit, Realm, RxSwift, Quick + Nimble
 - :ok_woman: JavaScript
-  - Cordova, AngularJS, jQuery, Chrome Extension
+  - Cordova, AngularJS, jQuery, Chrome Extension, Titanium Mobile
 - :ok_woman: TypeScript
   - Cordova, AngularJS, React, Redux
 - Ruby
@@ -36,12 +36,7 @@
 - 日本語
   - ネイティブ
 - 英語
-  - 苦手。ドキュメントや Stack Overflow がなんとか読める程度。
-
-### その他
-
-- iOS で得た fastlane の知識を生かし、Classi 社内の Android アプリもビルド・配布自動化
-  - [iOS が fastlane なら Android も fastlane に乗ってみては？ // Speaker Deck](https://speakerdeck.com/starhoshi/ios-ga-fastlane-nara-android-mo-fastlane-nicheng-tutemiteha)
+  - 苦手。ドキュメントや Stack Overflow がなんとか読める程度。
 
 ## 強み
 
@@ -79,17 +74,24 @@
 
 ## 職務経歴
 
-### yyyy/mm - : 会社名
+### 2016/10 - : Classi 株式会社
 
-職務: Webアプリケーションエンジニア（例）
+職務: iOS アプリケーションエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### [C先生向け iPad アプリ](https://itunes.apple.com/jp/app/classi%E5%85%88%E7%94%9F%E7%94%A8/id1171324456?mt=8)開発
 
-- 職務内容の詳細を箇条書きでかく
+- 画面デザイン以外を担当
+- 技術選定
+- 設計、開発、テスト
+- SwiftLint の導入
+- テスト、beta版配布、リリース自動化
+  - [fastlane を利用した iOS 継続的デリバリーの実践 \| Classi株式会社's Blog](https://www.wantedly.com/companies/classi/post_articles/57007)
+  - ここで得たノウハウを生かし、 Classi 社内の他の iOS アプリや Android アプリも自動化した
+- ユニットテスト
+  - Model を中心にカバレッジ45%ほど
+- ユーザヒアリング
 
-#### 職務内容の名前（レストラン検索とか）
-
-- 職務内容の詳細を箇条書きでかく
+#### 
 
 ### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
 
