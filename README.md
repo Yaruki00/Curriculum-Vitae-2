@@ -28,7 +28,7 @@
   - fastlane
 - Java
   - Spring Framework
-  - JavaEE
+  - JavaEE
 - PHP
   - Zend Framework
 - DataBase
@@ -57,6 +57,7 @@
 |---|-----|-----|
 |2017/03/17|[iOS Test Night \#3 \- connpass](https://testnight.connpass.com/event/49561/)|[iOS 開発での Pull Request と テストカバレッジの連携](https://speakerdeck.com/starhoshi/ios-kai-fa-defalse-pull-request-to-tesutokabaretuzifalselian-xi)|
 |2017/04/13|[potatotips \#39 \(iOS/Android開発Tips共有会\) \- connpass](https://potatotips.connpass.com/event/51176/)|[iOS が fastlane なら Android も fastlane に乗ってみては？](https://speakerdeck.com/starhoshi/ios-ga-fastlane-nara-android-mo-fastlane-nicheng-tutemiteha)|
+|2017/04/21|社内勉強会|[モバイルアプリアーキテクチャ勉強会 \- Qiita](http://qiita.com/star__hoshi/items/f28095542f56a1b05e34)|
 
 ### 個人開発
 
@@ -66,8 +67,8 @@
     - 合計55万ダウンロード
 - Web
   - [Alcatraz Search \| Search Alcatraz more better\.](http://starhoshi.github.io/AlcatrazSearch/)
-    - [React \+ Redux \+ TypeScript でWebアプリを作った感想・勉強法と Angular との比較 \- Qiita](http://qiita.com/star__hoshi/items/34eb4ccafcfa100b5cad)
-  - [taddol \- 音楽を聞いた歴史を作ろう](https://taddol.me/)
+    - [React \+ Redux \+ TypeScript でWebアプリを作った感想・勉強法と Angular との比較 \- Qiita](http://qiita.com/star__hoshi/items/34eb4ccafcfa100b5cad)
+  - [taddol \- 音楽を聞いた歴史を作ろう](https://taddol.me/)
 - Chrome Extension
   - [Image Switcher \- Chrome ウェブストア](https://chrome.google.com/webstore/detail/image-switcher/agbenbfomghnjfbelmoeplkjcflogomb)
   - [ShowGoogleSearchTools \- Chrome ウェブストア](https://chrome.google.com/webstore/detail/showgooglesearchtools/pnmpofbbcjfnogogdnebahojecpfdkal)
@@ -78,7 +79,7 @@
 
 職務: iOS アプリケーションエンジニア
 
-#### [C先生向け iPad アプリ](https://itunes.apple.com/jp/app/classi%E5%85%88%E7%94%9F%E7%94%A8/id1171324456?mt=8)開発
+#### [先生向け iPad アプリ](https://itunes.apple.com/jp/app/classi%E5%85%88%E7%94%9F%E7%94%A8/id1171324456?mt=8)開発
 
 - 画面デザイン以外を担当
 - 技術選定
@@ -88,10 +89,8 @@
   - [fastlane を利用した iOS 継続的デリバリーの実践 \| Classi株式会社's Blog](https://www.wantedly.com/companies/classi/post_articles/57007)
   - ここで得たノウハウを生かし、 Classi 社内の他の iOS アプリや Android アプリも自動化した
 - ユニットテスト
-  - Model を中心にカバレッジ45%ほど
+  - Model を中心にカバレッジ45%ほど
 - ユーザヒアリング
-
-#### 
 
 ### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
 
