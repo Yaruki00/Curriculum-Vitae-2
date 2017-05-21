@@ -16,11 +16,11 @@
 
 ### 言語・フレームワーク
 
-- Swift
+- :star: Swift
   - UIKit, Realm, RxSwift, Quick + Nimble
-- JavaScript
+- :ok_woman: JavaScript
   - Cordova, AngularJS, jQuery, Chrome Extension
-- TypeScript
+- :ok_woman: TypeScript
   - Cordova, AngularJS, React, Redux
 - Ruby
   - Ruby on Rails
