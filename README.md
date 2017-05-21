@@ -23,8 +23,7 @@
 - :ok_woman: TypeScript
   - Cordova, AngularJS, React, Redux
 - Ruby
-  - Ruby on Rails
-    - Heroku
+  - Ruby on Rails, rspec, heroku
   - fastlane
 - Java
   - Spring Framework
@@ -42,7 +41,7 @@
 
 - iOS ネイティブ、Web フロントエンド、サーバサイドなどのアプリケーションレイヤーであれば一通りの知識や開発経験がある。
   - 裏を返すと「胸を張って得意と言えるものがない」ので、今後は言語にとらわれない普遍的な知識を身につけていきたい。
-- プログラミングが好きで、かつ新しいものに興味があり、個人プロダクトを開発しながら技術検証をし仕事で実戦投入できる。
+- プログラミングが好きで、かつ新しいものに興味があり、個人プロダクトを開発しながら技術検証をし仕事で使うなどを普段からやっている。
 - 個人開発アプリで多くのダウンロードがあり(55万DL)、ユーザと近い距離の開発が得意。
 
 ## やったことはないが興味があるもの
@@ -63,8 +62,8 @@
 
 - iOS
   - [Kensuke Hoshikawaの App を App Store で](https://itunes.apple.com/jp/developer/kensuke-hoshikawa/id733552122)
-    - 15本リリース済み(1つは削除した)
-    - 合計55万ダウンロード
+    - 15本リリース済み(1つは削除した)
+    - 合計55万ダウンロード
 - Web
   - [Alcatraz Search \| Search Alcatraz more better\.](http://starhoshi.github.io/AlcatrazSearch/)
     - [React \+ Redux \+ TypeScript でWebアプリを作った感想・勉強法と Angular との比較 \- Qiita](http://qiita.com/star__hoshi/items/34eb4ccafcfa100b5cad)
@@ -79,7 +78,7 @@
 
 職務: iOS アプリケーションエンジニア
 
-#### [先生向け iPad アプリ](https://itunes.apple.com/jp/app/classi%E5%85%88%E7%94%9F%E7%94%A8/id1171324456?mt=8)開発
+#### [先生向け iPad アプリ](https://itunes.apple.com/jp/app/classi%E5%85%88%E7%94%9F%E7%94%A8/id1171324456?mt=8)開発 (2016/10〜)
 
 - 画面デザイン以外を担当
 - 技術選定、設計、開発、テスト
@@ -91,10 +90,46 @@
   - Model を中心にカバレッジ45%ほど
 - ユーザヒアリング
 
-### 2014/04 - 2016/10: [Sony Network Communications](https://www.sonynetwork.co.jp/)(旧ソネット株式会社)
+### 2014/04 - 2016/10: [Sony Network Communications 株式会社](https://www.sonynetwork.co.jp/) (旧ソネット株式会社)
 
 職務: サーバーサイド、フロントエンドエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### インターン受入 (2016/07〜2016/09)
 
-- 職務内容の詳細を箇条書きでかく
+ユーザビリティテストを通して、ハイブリッドアプリの良くないところをネイティブアプリで改善しようという内容。
+
+- 大学生のインターンの受け入れ主担当
+- ユーザビリティテスト + アジャイル + Swift での iOS アプリ開発コースの準備
+
+#### [ソネット パーソナルトレーニング](http://www.so-net.ne.jp/training/sonetore/) 開発 (2015/12〜2016/06)
+
+Cordova + TypeScript + AngularJS を利用したハイブリッドアプリを開発し、そのアプリを Web 版としてもリリースした。  
+チームメンバーは一番多い時で15人ほどいた。
+
+- Web フロントエンド開発環境の初期構築
+  - gulp と browserify で Cordova, TypeScript, AngularJS のビルド
+  - mocha, chai, sinon でテストを書く
+- フロントエンド開発チームのマネジメント
+  - タスク割り振り、スケジュールの確認、プルリクのチェック、企画課との調整など
+  - フロントエンドのメンバーは多い時で10人
+- 要件定義、設計、開発、テスト、運用
+- ユーザビリティテスト
+
+#### [So\-net 会員サポートアプリ](http://www.so-net.ne.jp/support/app/index.html) 開発 (2015/05〜2015/11)
+
+Cordova + AngularJS でハイブリッドアプリを開発。 JavaEE での API 開発も担当した。  
+API は自分一人で開発、アプリは自分を含めた2人で開発。
+
+- 技術選定
+  - 社内にアプリ開発のノウハウがなかったため、 Cordova で開発可能か検討
+- 要件定義、設計、開発、テスト
+  - 案件担当者として要件定義や上長承認資料の作成、企画課との調整を担当
+- ユーザビリティテスト
+
+#### [So\-net マイページ](http://www.so-net.ne.jp/mypage/) 開発 (2014/05〜2015/05)
+
+新卒1年目だったので大した仕事はしておらず、既存サービスの改修を行った。
+
+- 要件定義、設計、開発、テスト、リリースまで一通り担当
+- Java 製の社内 Framework での開発
+- DB は Sybase
