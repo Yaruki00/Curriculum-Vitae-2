@@ -8,7 +8,7 @@
 |Blog|[star\_\_hoshi's diary](http://starhoshi.hatenablog.com/)|
 |Twitter|[@star\_\_hoshi](https://twitter.com/star__hoshi)|
 |Qiita|[star\_\_hoshi](http://qiita.com/star__hoshi)|
-|Speakerdeck|[starhoshi](https://speakerdeck.com/starhoshi)|
+|Speaker Deck|[starhoshi](https://speakerdeck.com/starhoshi)|
 |Wantedly|[Kensuke Hoshikawa](https://www.wantedly.com/users/300300)|
 |WikiHub nippo|[@star\_\_hoshi](https://wikihub.io/@star__hoshi)|
 
