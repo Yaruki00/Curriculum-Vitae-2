@@ -75,15 +75,14 @@
 
 ## 職務経歴
 
-### 2016/10 - : Classi 株式会社
+### 2016/10 - : [Classi 株式会社](https://classi.jp/corporate/)
 
 職務: iOS アプリケーションエンジニア
 
 #### [先生向け iPad アプリ](https://itunes.apple.com/jp/app/classi%E5%85%88%E7%94%9F%E7%94%A8/id1171324456?mt=8)開発
 
 - 画面デザイン以外を担当
-- 技術選定
-- 設計、開発、テスト
+- 技術選定、設計、開発、テスト
 - SwiftLint の導入
 - テスト、beta版配布、リリース自動化
   - [fastlane を利用した iOS 継続的デリバリーの実践 \| Classi株式会社's Blog](https://www.wantedly.com/companies/classi/post_articles/57007)
@@ -92,9 +91,9 @@
   - Model を中心にカバレッジ45%ほど
 - ユーザヒアリング
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+### 2014/04 - 2016/10: [Sony Network Communications](https://www.sonynetwork.co.jp/)(旧ソネット株式会社)
 
-職務: サーバーサイドエンジニア
+職務: サーバーサイド、フロントエンドエンジニア
 
 #### 職務内容の名前（レストラン検索とか）
 
