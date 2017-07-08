@@ -54,6 +54,7 @@
 
 |Date|Event|Slide|
 |---|-----|-----|
+|2017/07/07|[EdTech Engineer Meetup \#1 \- connpass](https://edtechem.connpass.com/event/58603/)|[学校の iOS 端末事情](https://speakerdeck.com/starhoshi/xue-xiao-false-ios-duan-mo-shi-qing)|
 |2017/04/21|社内勉強会|[モバイルアプリアーキテクチャ勉強会 \- Qiita](http://qiita.com/star__hoshi/items/f28095542f56a1b05e34)|
 |2017/04/13|[potatotips \#39 \(iOS/Android開発Tips共有会\) \- connpass](https://potatotips.connpass.com/event/51176/)|[iOS が fastlane なら Android も fastlane に乗ってみては？](https://speakerdeck.com/starhoshi/ios-ga-fastlane-nara-android-mo-fastlane-nicheng-tutemiteha)|
 |2017/03/17|[iOS Test Night \#3 \- connpass](https://testnight.connpass.com/event/49561/)|[iOS 開発での Pull Request と テストカバレッジの連携](https://speakerdeck.com/starhoshi/ios-kai-fa-defalse-pull-request-to-tesutokabaretuzifalselian-xi)|
