@@ -54,6 +54,7 @@
 
 |Date|Event|Slide|
 |---|-----|-----|
+|2017/07/27|[iOS Test Night \#5 \- connpass](https://testnight.connpass.com/event/59283/)|[VIPER Architecture から学ぶ Dependency Injection](https://speakerdeck.com/starhoshi/viper-architecture-karaxue-bu-dependency-injection)|
 |2017/07/07|[EdTech Engineer Meetup \#1 \- connpass](https://edtechem.connpass.com/event/58603/)|[学校の iOS 端末事情](https://speakerdeck.com/starhoshi/xue-xiao-false-ios-duan-mo-shi-qing)|
 |2017/04/21|社内勉強会|[モバイルアプリアーキテクチャ勉強会 \- Qiita](http://qiita.com/star__hoshi/items/f28095542f56a1b05e34)|
 |2017/04/13|[potatotips \#39 \(iOS/Android開発Tips共有会\) \- connpass](https://potatotips.connpass.com/event/51176/)|[iOS が fastlane なら Android も fastlane に乗ってみては？](https://speakerdeck.com/starhoshi/ios-ga-fastlane-nara-android-mo-fastlane-nicheng-tutemiteha)|
