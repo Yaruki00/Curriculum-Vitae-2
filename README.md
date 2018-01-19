@@ -19,7 +19,7 @@
 - :star: Swift
   - UIKit, Realm, RxSwift, Quick + Nimble
 - Firebase
-  - Cloud Firestore, Cloud Functions
+  - Cloud Firestore, Cloud Functions, Realtime Database
 - JavaScript
   - Cordova, AngularJS, jQuery, Chrome Extension, Titanium Mobile
 - TypeScript
