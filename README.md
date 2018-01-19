@@ -78,7 +78,11 @@
 
 ## 職務経歴
 
-### 2016/10 - : [Classi 株式会社](https://classi.jp/corporate/)
+### 2017/08 - : [クックパッド株式会社](https://info.cookpad.com/)
+
+職務: iOS アプリケーションエンジニア
+
+### 2016/10 - 2017/07: [Classi 株式会社](https://classi.jp/corporate/)
 
 職務: iOS アプリケーションエンジニア
 
