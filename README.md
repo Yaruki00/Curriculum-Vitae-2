@@ -18,6 +18,8 @@
 
 - :star: Swift
   - UIKit, Realm, RxSwift, Quick + Nimble
+- Firebase
+  - Cloud Firestore, Cloud Functions
 - JavaScript
   - Cordova, AngularJS, jQuery, Chrome Extension, Titanium Mobile
 - TypeScript
@@ -42,7 +44,7 @@
 - iOS、フロントエンド、サーバサイドなどアプリケーションレイヤーであれば一通りの知識や経験がある。
   - 裏を返すと「胸を張って得意と言えるものがない」ので、今後は普遍的なソフトウェア知識を身につけていきたい。
 - 個人プロダクトを開発しながら技術検証をし仕事で使うなどを普段からやっている。
-- 個人開発アプリで多くのダウンロードがあり(55万DL)、ユーザと近い距離の開発が得意。
+- 個人開発アプリで多くのダウンロードがあり(70万DL)、ユーザと近い距離の開発が得意。
 
 ## やったことはないが興味があるもの
 
@@ -54,6 +56,8 @@
 
 |Date|Event|Slide|
 |---|-----|-----|
+|2017/12/18|[potatotips \#46 \(iOS/Android開発Tips共有会\) \- connpass](https://potatotips.connpass.com/event/73328/)|[個人アプリでレビューを高くするためにやっていること // Speaker Deck](https://speakerdeck.com/starhoshi/ge-ren-ahuriterehiyuwogao-kusurutameniyatuteirukoto)|
+|2017/10/03|[俺コン Vol\.1 / Day\. 2 \- connpass](https://orecon.connpass.com/event/64285/)|[個人開発を加速させるツール群 // Speaker Deck](https://speakerdeck.com/starhoshi/ge-ren-kai-fa-wojia-su-saseruturuqun)|
 |2017/07/27|[iOS Test Night \#5 \- connpass](https://testnight.connpass.com/event/59283/)|[VIPER Architecture から学ぶ Dependency Injection](https://speakerdeck.com/starhoshi/viper-architecture-karaxue-bu-dependency-injection)|
 |2017/07/07|[EdTech Engineer Meetup \#1 \- connpass](https://edtechem.connpass.com/event/58603/)|[学校の iOS 端末事情](https://speakerdeck.com/starhoshi/xue-xiao-false-ios-duan-mo-shi-qing)|
 |2017/04/21|社内勉強会|[モバイルアプリアーキテクチャ勉強会 \- Qiita](http://qiita.com/star__hoshi/items/f28095542f56a1b05e34)|
